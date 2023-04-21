@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h2{
+   color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: 1px 1px 15px #009dff;
+}
+h3{
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 15px #009dff;
+  
+}
+body{
+  background-color: #7fe87d;
+}
